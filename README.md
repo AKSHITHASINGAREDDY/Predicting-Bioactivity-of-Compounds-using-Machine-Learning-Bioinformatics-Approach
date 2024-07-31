@@ -26,3 +26,6 @@ ChEMBL Database: Bioactivity data for acetylcholinesterase inhibitors can be ret
 
 ## Project Outcome: What Did I Predict?
 From this project, I successfully predicted the pIC50 values of compounds based on their molecular fingerprints. This prediction indicates how potent each compound is in inhibiting a specific target, allowing for the identification of highly effective compounds. The machine learning model developed in this project can be used to screen large libraries of compounds and prioritize those with the highest predicted bioactivity for further experimental validation. This contributes to a more efficient and cost-effective drug discovery process.
+
+
+[reference](https://youtu.be/iZUH1qlgnys?si=VJOwZSiQ0_0PcFQK)
