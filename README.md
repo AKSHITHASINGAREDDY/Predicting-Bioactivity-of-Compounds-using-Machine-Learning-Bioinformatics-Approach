@@ -1,7 +1,7 @@
 # Predicting-Bioactivity-of-Compounds-using-Machine-Learning-Bioinformatics-Approach
 ## Disease Targeted in This Project
 The project targets Acetylcholinesterase (AChE), an enzyme associated with neurological diseases, most notably Alzheimer's disease. Inhibitors of acetylcholinesterase are commonly studied for their potential therapeutic effects in Alzheimer's disease treatment.
-for more information refer my blog portfolio(here)[https://akshithasingareddy.wixsite.com/2022/post/predicting-bioactivity-of-compounds-using-machine-learning-a-comprehensive-bioinformatics-approach]
+for more information refer my blog portfolio[here](https://akshithasingareddy.wixsite.com/2022/post/predicting-bioactivity-of-compounds-using-machine-learning-a-comprehensive-bioinformatics-approach)
 ## Required Packages, Libraries, and Datasets
     ## General Python Libraries:
                numpy: For numerical operations.
